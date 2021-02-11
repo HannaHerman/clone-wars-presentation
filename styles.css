@@ -1,0 +1,15 @@
+.dev-block {
+    display: flex;
+}
+.dev-block img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.trello-img {
+    height: 80%;
+    width: 85%;
+}
+.trello-link {
+    font-size: 30px;
+}
